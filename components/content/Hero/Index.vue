@@ -14,14 +14,14 @@
 
             <div class="actions">
 
-                <ButtonLink href="https://esp-admin.bg-tech.tn/auth/login" color="blue">
+                <ButtonLink href="https://esp-admin-app.bg-tech.tn" color="blue">
                     Get started
                 </ButtonLink>
 
-                <a href="/getting_started"
+                <NuxtLink to="/getting_started"
                     class="py-px mt-px font-medium text-gray-800 border-b-2 border-transparent dark:text-gray-100 hover:border-gray-800 dark:hover:border-gray-100">
                     Documentation
-                </a>
+                </NuxtLink>
             </div>
         </div>
 
