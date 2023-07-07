@@ -6,4 +6,7 @@ export default defineTheme({
       fontFamily: "Rubik",
     },
   },
+  typography: {
+    font: "Rubik",
+  },
 });
