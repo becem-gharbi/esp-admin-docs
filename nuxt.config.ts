@@ -7,7 +7,12 @@ export default defineNuxtConfig({
     "@nuxtjs/plausible",
     // https://github.com/nuxt/devtools
     // "@nuxt/devtools",
+    "nuxt-gtag",
   ],
+
+  gtag: {
+    id: process.env.GTAG_MEASUREMENT_ID,
+  },
 
   app: {
     head: {
@@ -22,15 +27,6 @@ export default defineNuxtConfig({
           rel: "stylesheet",
           href: "https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600&display=swap",
         },
-      ],
-    },
-  },
-
-  nitro: {
-    prerender: {
-      ignore: [
-        "/__pinceau_tokens_config.json",
-        "/__pinceau_tokens_schema.json",
       ],
     },
   },
