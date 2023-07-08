@@ -1,10 +1,10 @@
 <template>
     <div class="grid gap-4 grid-cols-2">
-        <BlockItem class="col-span-2" color="red">Nuxt Security</BlockItem>
-        <BlockItem class="col-span-2" color="green">Nuxt Auth</BlockItem>
-        <BlockItem class="col-span-2" color="green">Controllers</BlockItem>
-        <BlockItem>Nuxt S3</BlockItem>
-        <BlockItem>Prisma</BlockItem>
-        <BlockItem class="col-span-2" color="amber">Nuxt 3</BlockItem>
+        <BlockItem color="red" class="col-span-2">Nuxt Security</BlockItem>
+        <BlockItem color="green" class="col-span-2">Nuxt Auth</BlockItem>
+        <BlockItem color="green" class="col-span-2">Controllers</BlockItem>
+        <BlockItem color="blue">Nuxt S3</BlockItem>
+        <BlockItem color="blue">Prisma</BlockItem>
+        <BlockItem color="amber" class="col-span-2">Nuxt 3</BlockItem>
     </div>
 </template>
