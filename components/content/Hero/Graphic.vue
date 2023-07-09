@@ -653,8 +653,8 @@
 </div></template>
 
 <style scoped>.container {
-    width: 400px;
-    height: 400px;
+    width: 350px;
+    height: 350px;
 }
 
 a {

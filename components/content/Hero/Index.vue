@@ -34,10 +34,11 @@
 
 <style scoped>
 .container {
-    margin: 1rem;
     display: flex;
     align-items: center;
     justify-content: space-around;
+    margin: 2rem 0px;
+    flex-wrap: wrap-reverse;
 }
 
 .actions {
@@ -63,7 +64,7 @@
 
 @media screen and (max-width: 768px) {
     .container {
-        margin: 2rem 1rem;
+        margin: 2rem 0px;
     }
 
     .title {
@@ -74,8 +75,8 @@
         font-size: medium;
     }
 
-    .graphic {
+    /* .graphic {
         display: none;
-    }
+    } */
 }
 </style>
