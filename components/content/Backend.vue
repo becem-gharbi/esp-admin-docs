@@ -1,5 +1,5 @@
 <template>
-    <div class="grid gap-4 grid-cols-2">
+    <div class="grid gap-3 sm:gap-4 grid-cols-2">
         <BlockItem color="red" class="col-span-2">Nuxt Security</BlockItem>
         <BlockItem color="green" class="col-span-2">Nuxt Auth</BlockItem>
         <BlockItem color="green" class="col-span-2">Controllers</BlockItem>

@@ -1,5 +1,5 @@
 <template>
-    <div class="grid gap-4 grid-cols-2">
+    <div class="grid gap-3 sm:gap-4 grid-cols-2">
         <BlockItem color="red">Tailwind CSS</BlockItem>
         <BlockItem color="red">Nuxt Naive UI</BlockItem>
         <BlockItem color="green">useDeployment</BlockItem>

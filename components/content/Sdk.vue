@@ -1,5 +1,5 @@
 <template>
-    <div class="grid gap-4 grid-cols-4">
+    <div class="grid gap-3 sm:gap-4 grid-cols-4">
         <BlockItem color="red" class="col-span-4">ESPAdmin</BlockItem>
         <BlockItem color="green">Report</BlockItem>
         <BlockItem color="green">Command</BlockItem>
