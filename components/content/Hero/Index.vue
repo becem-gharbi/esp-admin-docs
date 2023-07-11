@@ -5,7 +5,7 @@
 
             <p class="title">
                 ESP Admin
-                <Badge>Alpha</Badge>
+                <Badge>Beta</Badge>
             </p>
 
             <p class="description">Remote management for ESP microcontrollers</p>
