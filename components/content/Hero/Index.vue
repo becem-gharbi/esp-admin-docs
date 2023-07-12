@@ -2,7 +2,6 @@
     <div class="container">
 
         <div>
-
             <p class="title">
                 ESP Admin
                 <Badge>Beta</Badge>
@@ -39,6 +38,7 @@
     justify-content: space-around;
     margin: 2rem 0px;
     flex-wrap: wrap-reverse;
+    gap: 2rem;
 }
 
 .actions {
