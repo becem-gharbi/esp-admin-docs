@@ -1,7 +1,7 @@
 lockfileVersion: 5.4
 
 specifiers:
-  '@nuxt-themes/docus': ^1.14.2
+  '@nuxt-themes/docus': ^1.14.3
   '@nuxt/devtools': ^0.6.7
   '@nuxt/eslint-config': ^0.1.1
   '@nuxtjs/plausible': ^0.2.1
@@ -12,7 +12,7 @@ specifiers:
   nuxt-gtag: ^0.5.7
 
 devDependencies:
-  '@nuxt-themes/docus': 1.14.2_lkmd6lysh2ija3ow3fl7b5ofeu
+  '@nuxt-themes/docus': 1.14.3_lkmd6lysh2ija3ow3fl7b5ofeu
   '@nuxt/devtools': 0.6.7_d22p4lajzqcxvt7dets25sdj6e
   '@nuxt/eslint-config': 0.1.1_eslint@8.44.0
   '@nuxtjs/plausible': 0.2.1_rollup@3.26.1
@@ -1072,8 +1072,8 @@ packages:
       - supports-color
     dev: true
 
-  /@nuxt-themes/docus/1.14.2_lkmd6lysh2ija3ow3fl7b5ofeu:
-    resolution: {integrity: sha512-gPUbVr0sDnPBM2zLmfWC8+KH12isZs+NjfDFmHqB+JcRgaTxNniu3C7IbN6MCUuom0pcVOYhe0kmUk4MXTxJEQ==}
+  /@nuxt-themes/docus/1.14.3_lkmd6lysh2ija3ow3fl7b5ofeu:
+    resolution: {integrity: sha512-GNTyyZSvNjWK7y0efIME7xY9YfV7kkDM8uWqeq5rCwHVUoYtwNFmhKEuBbCssmaGwx0kl031PuQOkLnUMdC2Dg==}
     dependencies:
       '@nuxt-themes/elements': 0.9.4_5mhqmswzbpib6mcvwfwcqi4txq
       '@nuxt-themes/tokens': 1.9.1_5mhqmswzbpib6mcvwfwcqi4txq
