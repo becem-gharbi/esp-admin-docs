@@ -13,7 +13,7 @@
 
             <div class="actions">
 
-                <ButtonLink href="https://esp-admin-app.bg-tech.tn" color="blue">
+                <ButtonLink href="https://esp-admin-app.bg.tn" color="blue">
                     Get started
                 </ButtonLink>
 
