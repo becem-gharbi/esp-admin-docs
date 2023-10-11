@@ -4,7 +4,7 @@
         <div>
             <p class="title">
                 ESP Admin
-                <Badge>Beta</Badge>
+                <Badge type="success">RC</Badge>
             </p>
 
             <p class="description">Remote management for ESP microcontrollers</p>
