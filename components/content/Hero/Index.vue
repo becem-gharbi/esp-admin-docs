@@ -4,7 +4,7 @@
       <p class="title">
         ESP Admin
         <Badge type="success">
-          Stable
+          stable
         </Badge>
       </p>
 
