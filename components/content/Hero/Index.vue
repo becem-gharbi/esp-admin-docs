@@ -3,9 +3,6 @@
     <div>
       <p class="title">
         ESP Admin
-        <Badge type="success">
-          stable
-        </Badge>
       </p>
 
       <p class="description">
