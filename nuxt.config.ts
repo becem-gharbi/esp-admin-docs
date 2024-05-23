@@ -30,4 +30,10 @@ export default defineNuxtConfig({
       ],
     },
   },
+
+  mdc: {
+    highlight: {
+      langs: ['cpp']
+    }
+  }
 });
