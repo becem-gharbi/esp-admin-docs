@@ -33,7 +33,7 @@ export default defineNuxtConfig({
 
   mdc: {
     highlight: {
-      langs: ['cpp']
+      langs: ['cpp', 'yaml']
     }
   }
 });
